@@ -6,6 +6,11 @@ Terminology Check
 - Heuristics
 - Kalman Filter
 
+To Do List
+- Add an accuracy check module for KNN
+- Add R^2 calculation function for KNN
+- Leave out verification data
+
 
 
 
