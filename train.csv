@@ -1,0 +1,39 @@
+Sound (dB),Light (Lux),Vibration (db),Time of day (H),Status
+40,340,35,9,Home
+36,20,23,4,Sleeping
+56,39,15,13,Not Home
+32,50,15,1,Sleeping
+63,430,19,10,Home
+34,110,21,14,Not Home
+42,32,22,3,Sleeping
+68,240,24,15,Home
+32,21,31,5,Sleeping
+39,80,50,20,Home
+32,430,63,16,Home
+39,23,33,1,Sleeping
+34,110,45,10,Not Home
+60,300,39,12,Home
+32,180,21,6,Sleeping
+39,30,20,4,Sleeping
+45,130,39,11,Not Home
+49,189,32,13,Not Home
+65,290,32,8,Home
+42,300,43,15,Not Home
+49,80,44,8,Home
+38,20,35,3,Sleeping
+56,400,62,16,Home
+52,290,30,7,Home
+49,429,32,15,Home
+43,200,40,11,Not Home
+48,190,37,15,Not Home
+45,120,49,16,Not Home
+59,340,68,8,Home
+39,140,33,6,Sleeping
+42,80,19,6,Sleeping
+44,20,32,1,Sleeping
+59,390,42,16,Home
+54,320,56,15,Home
+34,13,22,3,Sleeping
+46,110,39,14,Not Home
+69,280,55,15,Not Home
+43,420,35,10,Not Home
